@@ -1,0 +1,152 @@
+[
+  {
+    "id": "pm_kisan",
+    "name": "PM-KISAN",
+    "category": "Agriculture",
+    "source": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "pm_fasal_bima",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "Agriculture",
+    "source": "https://pmfby.gov.in"
+  },
+  {
+    "id": "kisan_credit_card",
+    "name": "Kisan Credit Card (KCC)",
+    "category": "Agriculture",
+    "source": "https://dahd.gov.in/en/division/kcc"
+  },
+  {
+  "id": "pm_kmy",
+  "name": "Pradhan Mantri Kisan Maan-Dhan Yojana (PM-KMY)",
+  "category": "Agriculture",
+  "source": "https://pmkmy.gov.in"
+  },
+  {
+    "id": "pmjay",
+    "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+    "category": "Healthcare",
+    "source": "https://www.pmjay.gov.in"
+  },
+  {
+    "id": "jsy",
+    "name": "Janani Suraksha Yojana (JSY)",
+    "category": "Healthcare",
+    "source": "https://www.govtschemes.in/sites/default/files/2022-03/Janani%20Suraksha%20Yojana.pdf"
+  },
+  {
+    "id": "pmsma",
+    "name": "Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)",
+    "category": "Healthcare",
+    "source": "https://pmsma.mohfw.gov.in"
+  },
+  {
+  "id": "nmmss",
+  "name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+  "category": "Education",
+  "source": "https://scholarships.gov.in/public/schemeGuidelines/NMMSSGuidelines.pdf"
+  },
+  {
+  "id": "pms_sc",
+  "name": "Post Matric Scholarship for Scheduled Castes (PMS-SC)",
+  "category": "Education",
+  "source": "https://socialjustice.gov.in/writereaddata/UploadFile/PMS_for_SCs_Scheme_Guidelines.pdf"
+  },
+  {
+  "id": "pm_vidyalaxmi",
+  "name": "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme",
+  "category": "Education",
+  "source": "https://www.dohe-education.gov.in/static/uploads/2025/10/18ce1793a6e249c2cdaccc7787739305.pdf"
+  },
+  {
+  "id": "pmusha",
+  "name": "Pradhan Mantri Uchchatar Shiksha Abhiyan (PM-USHA)",
+  "category": "Education",
+  "source": "https://pmusha.education.gov.in/pm-usha/#/document"
+  },
+  {
+  "id": "pmmvy",
+  "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+  "category": ["Healthcare", "Women"],
+  "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/jan/doc20221195901.pdf"
+  },
+  {
+  "id": "mssc",
+  "name": "Mahila Samman Savings Certificate (MSSC)",
+  "category": "Women",
+  "source": "https://www.myscheme.gov.in/schemes/mssc"
+  },
+  {
+  "id": "standup_india",
+  "name": "Stand Up India Scheme",
+  "category": ["Entrepreneurship","Women"],
+  "source": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/apr/doc20224535601.pdf"
+  },
+  {
+  "id": "ignoaps",
+  "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+  "category": "Senior Citizens",
+  "source": "https://www.myscheme.gov.in/schemes/nsap-ignoaps"
+  },
+  {
+  "id": "pmvvy",
+  "name": "Pradhan Mantri Vaya Vandana Yojana (PMVVY)",
+  "category": "Senior Citizens",
+  "source": "https://en.vikaspedia.in/viewcontent/social-welfare/senior-citizens-welfare/pradhan-mantri-vaya-vandana-yojana?lgn=en"
+  },
+  {
+  "id": "scss",
+  "name": "Senior Citizen Savings Scheme (SCSS)",
+  "category": "Senior Citizens",
+  "source": "https://www.nsiindia.gov.in/(S(pwuubvrv0uwdr455t3odncyf))/InternalPage.aspx?Id_Pk=134"
+  },
+  {
+  "id": "pmmy",
+  "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+  "category": "Entrepreneurship",
+  "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2069170&reg=48&lang=2"
+  },
+  {
+  "id": "pmegp",
+  "name": "Prime Minister’s Employment Generation Programme (PMEGP)",
+  "category": ["Entrepreneurship", "Employment"],
+  "source": "https://pmegp.msme.gov.in/"
+  },
+  {
+  "id": "pmkvy",
+  "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY 4.0)",
+  "category": ["Skill Development", "Employment"],
+  "source": "https://www.msde.gov.in/offerings/schemes-and-services/details/pradhan-mantri-kaushal-vikas-yojana-4-0-pmkvy-4-0-2021-ITO3ATMtQWa"
+  },
+  {
+  "id": "pmay_g",
+  "name": "Pradhan Mantri Awaas Yojana – Gramin (PMAY-G)",
+  "category": "Housing",
+  "source": "https://www.myscheme.gov.in/schemes/pmay-g"
+  },
+  {
+  "id": "pmay_u",
+  "name": "Pradhan Mantri Awaas Yojana – Urban (PMAY-U)",
+  "category": "Housing",
+  "source": "https://www.myscheme.gov.in/schemes/pmay-u"
+  },
+  {
+  "id": "pmjdy",
+  "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+  "category": "Financial Inclusion",
+  "source": "https://en.wikipedia.org/wiki/Pradhan_Mantri_Jan_Dhan_Yojana"
+  },
+  {
+  "id": "pmjjby",
+  "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+  "category": "Financial Inclusion",
+  "source": "https://www.myscheme.gov.in/schemes/pmjjby"
+  },
+  {
+  "id": "pmsby",
+  "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+  "category": "Financial Inclusion",
+  "source": "https://www.myscheme.gov.in/schemes/pmsby"
+  }
+]
