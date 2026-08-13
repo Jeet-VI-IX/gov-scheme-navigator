@@ -2,7 +2,7 @@
 
 **Category:** Social Security / Senior Citizens  
 **Ministry:** Ministry of Finance  
-**Official source:** https://en.vikaspedia.in/viewcontent/social-welfare/senior-citizens-welfare/pradhan-mantri-vaya-vandana-yojana?lgn=en
+**Official source:** https://pmujjwalayojana.in/pradhan-mantri-vaya-vandana-yojana/
 
 ## Objective
 To provide senior citizens aged 60 years and above with a safe pension option offering assured returns, financial stability, and protection against market volatility.

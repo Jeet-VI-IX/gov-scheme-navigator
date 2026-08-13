@@ -2,7 +2,7 @@
 
 **Category:** Financial Inclusion / Banking  
 **Ministry:** Ministry of Finance  
-**Official source:** https://en.wikipedia.org/wiki/Pradhan_Mantri_Jan_Dhan_Yojana
+**Official source:** https://pmjdy.gov.in/scheme
 
 ## Objective
 To ensure universal access to banking facilities, financial literacy, and affordable credit for economically weaker households, thereby promoting financial inclusion across India.
